@@ -4,3 +4,4 @@ config/**/*.properties
 
 config
 documents
+.DS_Store

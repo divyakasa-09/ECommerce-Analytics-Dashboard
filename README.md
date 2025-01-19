@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project demonstrates the creation of a **real-time e-commerce analytics dashboard** using a robust tech stack including JAVA8, Apache Kafka, Spark Streaming, MySQL, InfluxDB, and Grafana. The dashboard provides key insights into user interactions, such as campaign performance, demographic trends, and real-time purchase analytics.
+This project demonstrates the creation of a **real-time e-commerce analytics dashboard** using a robust tech stack including JAVA, Apache Kafka, Spark Streaming, MySQL, InfluxDB, and Grafana. The dashboard provides key insights into user interactions, such as campaign performance, demographic trends, and real-time purchase analytics.
 
 Time-series metrics form the backbone of this project, offering a powerful way to capture and analyze data that evolves over time.
 
@@ -20,7 +20,7 @@ Time-series metrics form the backbone of this project, offering a powerful way t
 
 ## Tech Stack
 
-- **Programming Languages**: Java 8, SQL
+- **Programming Languages**: Java, SQL
 - **Services**:
   - Apache Kafka
   - Spark Streaming

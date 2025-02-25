@@ -1,7 +1,0 @@
-pyspark==3.0.1
-mysql-connector-python==8.0.20
-confluent-kafka[avro]==1.7.0
-avro-python3==1.10.0
-pandas==1.2.3
-confluent-kafka
-fastavro==1.4.0

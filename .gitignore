@@ -4,4 +4,4 @@ config/**/*.properties
 
 config
 documents
-.DS_Store
+.DS_Store.DS_Store
